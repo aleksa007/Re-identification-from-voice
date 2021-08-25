@@ -1,0 +1,2 @@
+# Re-identification-from-voice
+In this task, the goal is to build a Deep Learningmodel that is capable of identifying whethertwo recordings belong to the same person or not.  More specifically, given a set of recordings, yourfinal model should be capable of determining which of the recordings are most closely related toeach other, and so creating a measure of how likely two recordings belong to the same person.
